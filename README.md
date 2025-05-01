@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Christheena Kugadas, i am undergraduate at University of Vavuniya,
-- 👀 I’m interested in UI/Ux designing, WebDevelopment, programming
+- 👀 I’m interested in UI/UX, Software Engineering, Full stack developer
 - 🌱 I’m currently learning BICT Hons 
 - 📫 knchrish07@gmail.com
 <!---
